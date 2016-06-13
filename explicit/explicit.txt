@@ -1,3 +1,3 @@
 This file is needed along with the Go files.
-It is mentioned in the .gimme file so that it is
+It is mentioned in the .drop file so that it is
 included.

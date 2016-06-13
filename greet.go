@@ -1,4 +1,4 @@
-package gimmetest
+package droptest
 
 // Greet greets someone.
 func Greet(name string) string {
